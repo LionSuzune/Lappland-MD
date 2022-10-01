@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/LionSuzune/Lappland-MD/blob/v7.1/image/lol_1.jpg" alt="LAPPLAND & TEXAS" width="100"/>
+<img src="https://github.com/LionSuzune/Lappland-MD/blob/master/image/lol.jpg" alt="LAPPLAND & TEXAS" width="100"/>
 
 
 </p>
