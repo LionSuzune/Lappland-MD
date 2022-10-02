@@ -36,4 +36,4 @@ jobs:
           sudo apt-get install ffmpeg imagemagick -y 
           cd Lappland-MD
           yarn install
-          npm start
+          node zeeone.js
